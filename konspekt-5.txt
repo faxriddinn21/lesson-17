@@ -1,0 +1,9 @@
+                        KONSPEKT
+SMACSS bu kchik va katta saytlarni yaratishda va moslashuvchan holatga keltirishda foydalaniladi. U quidagi xil toifaga bolinadi.misol uchun baza, tartib, modullar, shitatlar, va mavzular.misol uchun mavzular bolimida U asosiy ranglar, shakllar, hoshiyalar, soyalar va shunga o'xshash rullarni o'z ichiga olish uchun ishlatiladi .
+
+BEM - bu qayta foydalanish mumkin bo'lgan va parvarish qilinadigan kodni yaratishga yordam beradigan metodologiya. BEMni kuzatishni boshlashni xohlaysizmi? Ushbu matn siz uchun asoslarni qamrab oladi. Loyihani kichikroq qismlarga bo'lish - bu ilova yoki veb-sayt yaratishda qilishni xohlaydigan tabiiy narsa. Siz ba'zi ketma-ketliklarni qayta ishlatish imkoniyatiga ega bo'lishni xohlaysiz va xuddi Angular direktivalari yoki React komponentlari kabi, BEM sizning CSS kodingizni ishlab chiqish va saqlashni osonlashtiradigan ishonch hosil qilish usulidir.
+BEM BEM ob'ektlari bo'lgan Blok , Element , Modifikator degan ma'noni anglatadi :
+Blok - bu uslublar, xatti-harakatlar yoki amalga oshirish texnologiyalarini qamrab oluvchi mantiqiy mustaqil komponent. Bloklarning mustaqil ekanligi bizga ularni osongina qayta ishlatishga imkon beradi.
+
+RESPONSIVE
+responsiv asosan desktop va mobile qurilmalar uchun ishlatiladi, asosan yana @media turlari bor screen moslashuvchan ekranlar uchun printers printerlar uchun ishlaydi.
